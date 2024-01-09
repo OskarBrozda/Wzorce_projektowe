@@ -1,0 +1,6 @@
+.DS_Store
+.lesson
+.cache/replit
+.replit
+env.json
+__replit_disk_meta.json
